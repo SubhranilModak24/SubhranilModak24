@@ -1,5 +1,5 @@
 # 💫About Me :
-I am a student, and tech enthusiast and I love to perform various experiments
+I am a student, tech enthusiast and I love to perform various experiments
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/subhranil.modak.9/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/subhranilmodak2404/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://expo.dev/@nil042008) 
