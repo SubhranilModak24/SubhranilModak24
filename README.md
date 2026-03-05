@@ -1,5 +1,38 @@
 # 💫About Me :
-I am a student, tech enthusiast and I love to perform various experiments
+# Hi there, I'm Subhranil 👋
+
+> **Radical thought, simplified execution.** ✨
+> I build at the intersection of bits, atoms, and intelligence.
+
+---
+
+### 🚀 What I’m Working On
+I am a developer and researcher driven by a love for new discoveries and a passion for making complex systems accessible. 
+
+* **🧠 Artificial Intelligence:** Developing intuitive models and exploring neural architectures.
+* **🛡️ Cybersecurity:** Hardening systems and practicing ethical hacking to keep the web secure.
+* **🤖 Robotics & Electronics:** Bridging the gap between software and hardware through PCB design and autonomous systems.
+* **🔬 Science & Tech:** Applying computational methods to scientific discovery.
+
+---
+
+### 🛠️ Tech Stack & Tools
+| Domain | Technologies |
+| :--- | :--- |
+| **Software** | Python, C++, JavaScript, Linux |
+| **Hardware** | Arduino, Raspberry Pi, ESP32, KiCad |
+| **AI/ML** | PyTorch, TensorFlow, Scikit-learn |
+| **Security** | Kali Linux, Metasploit, Wireshark |
+
+---
+
+### 🐾 Beyond the Code
+When I'm not debugging or soldering, you can find me:
+* Exploring the outdoors and looking for new discoveries.
+* Spending time with animals (the best coworkers).
+* Thinking of ways to simplify the next big idea.
+
+---
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/subhranil.modak.24/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/subhranilmodak2404/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://expo.dev/@nil042008) 
